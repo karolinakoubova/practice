@@ -7,7 +7,7 @@ body{
     background-image: url(./graphics/bg.jpg);
     background-size: contain;
     background-repeat: repeat-y;
-    color: rgb(204, 184, 184);
+    color: white;
     font-family: "Open Sans";
 
 }
